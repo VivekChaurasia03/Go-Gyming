@@ -1,4 +1,4 @@
-# Go Gyming
+# [Go Gyming](https://go-gyming.netlify.app/)
 
 Welcome to the Go Gyming! This application allows users to select the type of workout they want to do and provides a comprehensive list of exercises to target those muscles. Built with Vite, React, and styled using Tailwind CSS.
 
