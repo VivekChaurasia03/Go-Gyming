@@ -44,7 +44,8 @@ Follow these steps to get the project up and running on your local machine:
    Update `tailwind.config.js` with the paths to your template files:
 
     ```js
-    module.exports = {
+    /** @type {import('tailwindcss').Config} */
+    export default {
         content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
         theme: {
             extend: {},
